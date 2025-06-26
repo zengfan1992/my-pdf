@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Reader</title>
+    <link href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABjElEQVQ4jZ2TzUoDURTH"
+        type="image/x-icon" rel="icon">
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+    <script src="./pdf.min.js" type="module"></script>
+    <script src="./xlsx.full.min.js"></script>
+    <script defer src="./index.js"></script>
+</head>
+
+<body>
+    <div id="output"></div>
+    <dialog id="loading">Loading</dialog>
+</body>
+
+</html>

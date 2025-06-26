@@ -1,0 +1,624 @@
+BookmarkBegin
+BookmarkTitle: 第Ⅰ部分 Pandas核心基础 
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+
+BookmarkBegin
+BookmarkTitle: 第1章 Pandas概述 
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+
+BookmarkBegin
+BookmarkTitle: 1.1 21世纪的数据 
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+
+BookmarkBegin
+BookmarkTitle: 1.2 Pandas介绍 
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+
+BookmarkBegin
+BookmarkTitle: 1.3 Pandas之旅 
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+
+BookmarkBegin
+BookmarkTitle: 1.4 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+
+BookmarkBegin
+BookmarkTitle: 第2章 Series对象 
+BookmarkLevel: 1
+BookmarkPageNumber: 34
+
+BookmarkBegin
+BookmarkTitle: 2.1 Series概述 
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+
+BookmarkBegin
+BookmarkTitle: 2.2 基于其他Python对象创建Series 
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+
+BookmarkBegin
+BookmarkTitle: 2.3 Series属性 
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+
+BookmarkBegin
+BookmarkTitle: 2.4 检索第一行和最后一行 
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+
+BookmarkBegin
+BookmarkTitle: 2.5 数学运算 
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+
+BookmarkBegin
+BookmarkTitle: 2.6 将Series传递给Python的内置函数 
+BookmarkLevel: 2
+BookmarkPageNumber: 56
+
+BookmarkBegin
+BookmarkTitle: 2.7 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+
+BookmarkBegin
+BookmarkTitle: 2.8 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+
+BookmarkBegin
+BookmarkTitle: 第3章 Series方法 
+BookmarkLevel: 1
+BookmarkPageNumber: 62
+
+BookmarkBegin
+BookmarkTitle: 3.1 使用read_csv函数导入数据集 
+BookmarkLevel: 2
+BookmarkPageNumber: 62
+
+BookmarkBegin
+BookmarkTitle: 3.2 对Series进行排序 
+BookmarkLevel: 2
+BookmarkPageNumber: 67
+
+BookmarkBegin
+BookmarkTitle: 3.3 使用inplace参数替换原有Series 
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+
+BookmarkBegin
+BookmarkTitle: 3.4 使用value_counts方法计算值的个数 
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+
+BookmarkBegin
+BookmarkTitle: 3.5 使用apply方法对每个Series值调用一个函数 
+BookmarkLevel: 2
+BookmarkPageNumber: 78
+
+BookmarkBegin
+BookmarkTitle: 3.6 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 81
+
+BookmarkBegin
+BookmarkTitle: 3.7 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+
+BookmarkBegin
+BookmarkTitle: 第4章 DataFrame对象 
+BookmarkLevel: 1
+BookmarkPageNumber: 84
+
+BookmarkBegin
+BookmarkTitle: 4.1 DataFrame概述 
+BookmarkLevel: 2
+BookmarkPageNumber: 85
+
+BookmarkBegin
+BookmarkTitle: 4.2 Series和DataFrame的相似之处 
+BookmarkLevel: 2
+BookmarkPageNumber: 88
+
+BookmarkBegin
+BookmarkTitle: 4.3 对DataFrame进行排序 
+BookmarkLevel: 2
+BookmarkPageNumber: 94
+
+BookmarkBegin
+BookmarkTitle: 4.4 按照索引进行排序 
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+
+BookmarkBegin
+BookmarkTitle: 4.5 设置新的索引 
+BookmarkLevel: 2
+BookmarkPageNumber: 99
+
+BookmarkBegin
+BookmarkTitle: 4.6 从DataFrame中选择列 
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+
+BookmarkBegin
+BookmarkTitle: 4.7 从DataFrame中选择行 
+BookmarkLevel: 2
+BookmarkPageNumber: 102
+
+BookmarkBegin
+BookmarkTitle: 4.8 从Series中提取值 
+BookmarkLevel: 2
+BookmarkPageNumber: 109
+
+BookmarkBegin
+BookmarkTitle: 4.9 对行或列进行重命名 
+BookmarkLevel: 2
+BookmarkPageNumber: 109
+
+BookmarkBegin
+BookmarkTitle: 4.10 重置索引 
+BookmarkLevel: 2
+BookmarkPageNumber: 110
+
+BookmarkBegin
+BookmarkTitle: 4.11 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 112
+
+BookmarkBegin
+BookmarkTitle: 4.12 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 115
+
+BookmarkBegin
+BookmarkTitle: 第5章 对DataFrame进行过滤 
+BookmarkLevel: 1
+BookmarkPageNumber: 116
+
+BookmarkBegin
+BookmarkTitle: 5.1 优化数据集以提高内存使用效率 
+BookmarkLevel: 2
+BookmarkPageNumber: 116
+
+BookmarkBegin
+BookmarkTitle: 5.2 按单个条件过滤 
+BookmarkLevel: 2
+BookmarkPageNumber: 122
+
+BookmarkBegin
+BookmarkTitle: 5.3 按多个条件过滤 
+BookmarkLevel: 2
+BookmarkPageNumber: 125
+
+BookmarkBegin
+BookmarkTitle: 5.4 按条件过滤 
+BookmarkLevel: 2
+BookmarkPageNumber: 128
+
+BookmarkBegin
+BookmarkTitle: 5.5 处理重复值 
+BookmarkLevel: 2
+BookmarkPageNumber: 135
+
+BookmarkBegin
+BookmarkTitle: 5.6 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 139
+
+BookmarkBegin
+BookmarkTitle: 5.7 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 143
+
+BookmarkBegin
+BookmarkTitle: 第Ⅱ部分 应用Pandas 
+BookmarkLevel: 1
+BookmarkPageNumber: 145
+
+BookmarkBegin
+BookmarkTitle: 第6章 处理文本数据 
+BookmarkLevel: 1
+BookmarkPageNumber: 146
+
+BookmarkBegin
+BookmarkTitle: 6.1 字母的大小写和空格 
+BookmarkLevel: 2
+BookmarkPageNumber: 146
+
+BookmarkBegin
+BookmarkTitle: 6.2 字符串切片 
+BookmarkLevel: 2
+BookmarkPageNumber: 150
+
+BookmarkBegin
+BookmarkTitle: 6.3 字符串切片和字符替换 
+BookmarkLevel: 2
+BookmarkPageNumber: 151
+
+BookmarkBegin
+BookmarkTitle: 6.4 布尔型方法 
+BookmarkLevel: 2
+BookmarkPageNumber: 153
+
+BookmarkBegin
+BookmarkTitle: 6.5 拆分字符串 
+BookmarkLevel: 2
+BookmarkPageNumber: 155
+
+BookmarkBegin
+BookmarkTitle: 6.6 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 159
+
+BookmarkBegin
+BookmarkTitle: 6.7 关于正则表达式的说明 
+BookmarkLevel: 2
+BookmarkPageNumber: 161
+
+BookmarkBegin
+BookmarkTitle: 6.8 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 162
+
+BookmarkBegin
+BookmarkTitle: 第7章 多级索引DataFrame 
+BookmarkLevel: 1
+BookmarkPageNumber: 163
+
+BookmarkBegin
+BookmarkTitle: 7.1 MultiIndex对象 
+BookmarkLevel: 2
+BookmarkPageNumber: 164
+
+BookmarkBegin
+BookmarkTitle: 7.2 MultiIndex DataFrame 
+BookmarkLevel: 2
+BookmarkPageNumber: 167
+
+BookmarkBegin
+BookmarkTitle: 7.3 对MultiIndex进行排序 
+BookmarkLevel: 2
+BookmarkPageNumber: 172
+
+BookmarkBegin
+BookmarkTitle: 7.4 通过MultiIndex提取列或行 
+BookmarkLevel: 2
+BookmarkPageNumber: 175
+
+BookmarkBegin
+BookmarkTitle: 7.5 交叉选择 
+BookmarkLevel: 2
+BookmarkPageNumber: 184
+
+BookmarkBegin
+BookmarkTitle: 7.6 索引操作 
+BookmarkLevel: 2
+BookmarkPageNumber: 185
+
+BookmarkBegin
+BookmarkTitle: 7.7 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 190
+
+BookmarkBegin
+BookmarkTitle: 7.8 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 193
+
+BookmarkBegin
+BookmarkTitle: 第8章 数据集的重塑和透视 
+BookmarkLevel: 1
+BookmarkPageNumber: 194
+
+BookmarkBegin
+BookmarkTitle: 8.1 宽数据和窄数据 
+BookmarkLevel: 2
+BookmarkPageNumber: 194
+
+BookmarkBegin
+BookmarkTitle: 8.2 由DataFrame创建数据透视表 
+BookmarkLevel: 2
+BookmarkPageNumber: 196
+
+BookmarkBegin
+BookmarkTitle: 8.3 对索引级别进行堆叠和取消堆叠 
+BookmarkLevel: 2
+BookmarkPageNumber: 202
+
+BookmarkBegin
+BookmarkTitle: 8.4 融合数据集 
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+
+BookmarkBegin
+BookmarkTitle: 8.5 展开值列表 
+BookmarkLevel: 2
+BookmarkPageNumber: 207
+
+BookmarkBegin
+BookmarkTitle: 8.6 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 209
+
+BookmarkBegin
+BookmarkTitle: 8.7 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 213
+
+BookmarkBegin
+BookmarkTitle: 第9章 GroupBy对象 
+BookmarkLevel: 1
+BookmarkPageNumber: 214
+
+BookmarkBegin
+BookmarkTitle: 9.1 从头开始创建GroupBy对象 
+BookmarkLevel: 2
+BookmarkPageNumber: 214
+
+BookmarkBegin
+BookmarkTitle: 9.2 从数据集中创建GroupBy对象 
+BookmarkLevel: 2
+BookmarkPageNumber: 216
+
+BookmarkBegin
+BookmarkTitle: 9.3 GroupBy对象的属性和方法 
+BookmarkLevel: 2
+BookmarkPageNumber: 218
+
+BookmarkBegin
+BookmarkTitle: 9.4 聚合操作 
+BookmarkLevel: 2
+BookmarkPageNumber: 222
+
+BookmarkBegin
+BookmarkTitle: 9.5 将自定义操作应用于所有组 
+BookmarkLevel: 2
+BookmarkPageNumber: 225
+
+BookmarkBegin
+BookmarkTitle: 9.6 按多列分组 
+BookmarkLevel: 2
+BookmarkPageNumber: 226
+
+BookmarkBegin
+BookmarkTitle: 9.7 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 227
+
+BookmarkBegin
+BookmarkTitle: 9.8 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 230
+
+BookmarkBegin
+BookmarkTitle: 第10章 合并与连接 
+BookmarkLevel: 1
+BookmarkPageNumber: 231
+
+BookmarkBegin
+BookmarkTitle: 10.1 本章使用的数据集 
+BookmarkLevel: 2
+BookmarkPageNumber: 232
+
+BookmarkBegin
+BookmarkTitle: 10.2 连接数据集 
+BookmarkLevel: 2
+BookmarkPageNumber: 234
+
+BookmarkBegin
+BookmarkTitle: undefined
+BookmarkLevel: 1
+BookmarkPageNumber: NaN
+
+BookmarkBegin
+BookmarkTitle: 缺失值 
+BookmarkLevel: 1
+BookmarkPageNumber: 236
+
+BookmarkBegin
+BookmarkTitle: 10.4 左连接 
+BookmarkLevel: 2
+BookmarkPageNumber: 238
+
+BookmarkBegin
+BookmarkTitle: 10.5 内连接 
+BookmarkLevel: 2
+BookmarkPageNumber: 239
+
+BookmarkBegin
+BookmarkTitle: 10.6 外连接 
+BookmarkLevel: 2
+BookmarkPageNumber: 241
+
+BookmarkBegin
+BookmarkTitle: 10.7 合并索引标签 
+BookmarkLevel: 2
+BookmarkPageNumber: 244
+
+BookmarkBegin
+BookmarkTitle: 10.8 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 245
+
+BookmarkBegin
+BookmarkTitle: 10.9 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 249
+
+BookmarkBegin
+BookmarkTitle: 第11章 处理日期和时间 
+BookmarkLevel: 1
+BookmarkPageNumber: 251
+
+BookmarkBegin
+BookmarkTitle: 11.1 引入Timestamp对象 
+BookmarkLevel: 2
+BookmarkPageNumber: 251
+
+BookmarkBegin
+BookmarkTitle: 11.2 在DatetimeIndex中存储多个时间戳 
+BookmarkLevel: 2
+BookmarkPageNumber: 256
+
+BookmarkBegin
+BookmarkTitle: 11.3 将列或索引值转换为日期时间类型数据 
+BookmarkLevel: 2
+BookmarkPageNumber: 258
+
+BookmarkBegin
+BookmarkTitle: 11.4 使用DatetimeProperties对象 
+BookmarkLevel: 2
+BookmarkPageNumber: 259
+
+BookmarkBegin
+BookmarkTitle: 11.5 使用持续时间进行加减 
+BookmarkLevel: 2
+BookmarkPageNumber: 263
+
+BookmarkBegin
+BookmarkTitle: 11.6 日期偏移 
+BookmarkLevel: 2
+BookmarkPageNumber: 265
+
+BookmarkBegin
+BookmarkTitle: 11.7 Timedelta对象 
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+
+BookmarkBegin
+BookmarkTitle: 11.8 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 271
+
+BookmarkBegin
+BookmarkTitle: 11.9 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 276
+
+BookmarkBegin
+BookmarkTitle: 第12章 导入和导出 
+BookmarkLevel: 1
+BookmarkPageNumber: 277
+
+BookmarkBegin
+BookmarkTitle: 12.1 读取和写入JSON文件 
+BookmarkLevel: 2
+BookmarkPageNumber: 278
+
+BookmarkBegin
+BookmarkTitle: 12.2 读取和写入CSV文件 
+BookmarkLevel: 2
+BookmarkPageNumber: 286
+
+BookmarkBegin
+BookmarkTitle: 12.3 读取和写入Excel工作簿 
+BookmarkLevel: 2
+BookmarkPageNumber: 288
+
+BookmarkBegin
+BookmarkTitle: 12.4 代码挑战 
+BookmarkLevel: 2
+BookmarkPageNumber: 293
+
+BookmarkBegin
+BookmarkTitle: 12.5 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 295
+
+BookmarkBegin
+BookmarkTitle: 第13章 配置Pandas 
+BookmarkLevel: 1
+BookmarkPageNumber: 296
+
+BookmarkBegin
+BookmarkTitle: 13.1 获取和设置Pandas选项 
+BookmarkLevel: 2
+BookmarkPageNumber: 296
+
+BookmarkBegin
+BookmarkTitle: 13.2 精度 
+BookmarkLevel: 2
+BookmarkPageNumber: 300
+
+BookmarkBegin
+BookmarkTitle: 13.3 列的最大宽度 
+BookmarkLevel: 2
+BookmarkPageNumber: 301
+
+BookmarkBegin
+BookmarkTitle: 13.4 截断阈值 
+BookmarkLevel: 2
+BookmarkPageNumber: 302
+
+BookmarkBegin
+BookmarkTitle: 13.5 上下文选项 
+BookmarkLevel: 2
+BookmarkPageNumber: 302
+
+BookmarkBegin
+BookmarkTitle: 13.6 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 303
+
+BookmarkBegin
+BookmarkTitle: 第14章 可视化 
+BookmarkLevel: 1
+BookmarkPageNumber: 305
+
+BookmarkBegin
+BookmarkTitle: 14.1 安装Matplotlib 
+BookmarkLevel: 2
+BookmarkPageNumber: 305
+
+BookmarkBegin
+BookmarkTitle: 14.2 折线图 
+BookmarkLevel: 2
+BookmarkPageNumber: 306
+
+BookmarkBegin
+BookmarkTitle: 14.3 条形图 
+BookmarkLevel: 2
+BookmarkPageNumber: 310
+
+BookmarkBegin
+BookmarkTitle: 14.4 饼图 
+BookmarkLevel: 2
+BookmarkPageNumber: 312
+
+BookmarkBegin
+BookmarkTitle: 14.5 本章小结 
+BookmarkLevel: 2
+BookmarkPageNumber: 313
+
+BookmarkBegin
+BookmarkTitle: 附录A 安装及配置 
+BookmarkLevel: 1
+BookmarkPageNumber: 314
+
+BookmarkBegin
+BookmarkTitle: 附录B Python速成课程 
+BookmarkLevel: 1
+BookmarkPageNumber: 330
+
+BookmarkBegin
+BookmarkTitle: 附录C NumPy速成教程 
+BookmarkLevel: 1
+BookmarkPageNumber: 362
+
+BookmarkBegin
+BookmarkTitle: 附录D 用Faker生成模拟数据 
+BookmarkLevel: 1
+BookmarkPageNumber: 369
+
+BookmarkBegin
+BookmarkTitle: 附录E 正则表达式 
+BookmarkLevel: 1
+BookmarkPageNumber: 375

@@ -1,0 +1,17 @@
+{
+  "tasks": {
+    "start": "deno run -A build.ts dev",
+    "build": "bash zip.notebook.sh"
+  },
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "esnext",
+      "deno.ns"
+    ]
+  },
+  "imports": {
+    "react": "npm:react@19.0.0",
+    "react-dom/client": "npm:react-dom@19.0.0/client"
+  }
+}
